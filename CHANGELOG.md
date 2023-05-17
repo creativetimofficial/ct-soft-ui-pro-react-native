@@ -1,3 +1,14 @@
+## [1.1.0] 2023-05-15
+
+### Updated dependencies
+
+-Expo sdk updated from 45 to 48
+-react update from 17 to 18
+-react native version updated 0.68 to 0.71.7
+-Other packages updated according to expo sdk.
+-typescript updated 4.3.5 to 4.5
+-expo-app-loading package is deprecated. Added a new package expo-splash-screen. For this,App.js file
+
 ## [1.0.2] 2022-07-21
 ### Updated dependencies
 
