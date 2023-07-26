@@ -1,5 +1,10 @@
-## [1.1.0] 2023-05-15
+## [1.1.1] 2023-06-26
+### Updated dependencies
 
+- Removed expo-app-loading dependency
+- Add dependencies for react-native-gesture-handler
+
+## [1.1.0] 2023-05-15
 ### Updated dependencies
 
 -Expo sdk updated from 45 to 48
