@@ -1,3 +1,25 @@
+## [1.1.4] 2025-01-23
+### Updated
+- @react-navigation/drawer v7.1.1: Introduced enhanced drawer navigation capabilities.
+- @react-navigation/elements v2.2.5: Added support for customized UI elements in navigation.
+- expo-blur v14.0.3: Enabled blurred views for enhanced visual effects.
+- expo-haptics v14.0.1: Implemented haptic feedback for interactive elements.
+- react-native-calendars v1.1308.0: Integrated a calendar component for scheduling and date selection.
+- react-native-gifted-chat v2.6.5: Added a robust chat UI component for messaging functionality.
+- expo v52.0.27: Upgraded to the latest Expo SDK for better performance and compatibility.
+- react-native v0.76.6: Updated to ensure compatibility with the latest React Native features.
+- react v18.3.1: Leveraged React’s latest version for improved rendering performance.
+- typescript v5.7.3: Updated TypeScript for enhanced type-checking and modern syntax support.
+- dayjs v1.11.13: Updated for efficient date and time management.
+- eslint v8.57.1: Improved linting capabilities with the latest ESLint version.
+- @react-native-community/eslint-config v3.2.0: Aligned with the latest community ESLint configurations.
+  
+- Ensure Node.js v18.x LTS is installed for optimal compatibility with Expo SDK 52.0.27.
+- The New Architecture is enabled by default in Expo Go but requires newArchEnabled: true in app.json for production builds.
+
+### Added 
+- nanoid v5.0.9: Incorporated for generating unique IDs in various contexts.
+
 ## [1.1.3] 2024-09-17
 
 ### Updated dependencies
